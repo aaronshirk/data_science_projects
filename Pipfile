@@ -4,9 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pandas = "1.4.2"
+pandas = "2.1.0"
 plotly = "5.13.0"
-nbformat = "5.7.0"
+statsmodels = "*"
 kaleido = "*"
 seaborn = "*"
 matplotlib = "*"
