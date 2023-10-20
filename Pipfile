@@ -12,6 +12,7 @@ seaborn = "*"
 matplotlib = "*"
 ipykernel = "*"
 scikit-learn = "*"
+pendulum = "*"
 
 [dev-packages]
 
