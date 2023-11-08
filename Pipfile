@@ -13,6 +13,7 @@ matplotlib = "*"
 ipykernel = "*"
 scikit-learn = "*"
 pendulum = "*"
+scipy = "*"
 
 [dev-packages]
 
